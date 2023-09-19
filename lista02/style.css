@@ -1,0 +1,382 @@
+.container1 {
+    width: 100%;
+    background-color: grey;
+    height: fit-content;
+    display: flex;
+    border: solid 5px white;
+}
+
+#filho1p1 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(0, 153, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#filho2p1 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(3, 3, 66);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#filho3p1 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(255, 0, 64);
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+
+#filho4p1 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(151, 151, 3);
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+     
+}
+
+.container2 {
+    width: 100%;
+    background-color: grey;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    border: solid 5px white;
+}
+
+#filho1p2 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(0, 153, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#filho2p2 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(3, 3, 66);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#filho3p2 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(255, 0, 64);
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+      
+}
+
+#filho4p2 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(151, 151, 3);
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    
+}
+.container3 {
+    width: 100%;
+    background-color: grey;
+    height: fit-content;
+    display: flex;
+    justify-content: end;
+    border: solid 5px white;
+    
+}
+
+#filho1p3 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(0, 153, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#filho2p3 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(3, 3, 66);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+#filho3p3 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(255, 0, 64);
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+   
+}
+
+#filho4p3 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(151, 151, 3);
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    
+}
+
+.container4 {
+    width: 100%;
+    background-color: grey;
+    height: fit-content;
+    display: flex;
+    border: solid 5px white;
+    justify-content: space-between;
+}
+
+#filho1p4 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(0, 153, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#filho2p4 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(3, 3, 66);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+#filho3p4 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(255, 0, 64);
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+   
+}
+
+#filho4p4 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(151, 151, 3);
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    
+}
+
+
+.container5 {
+    width: 100%;
+    background-color: grey;
+    height: fit-content;
+    display: flex;
+    border: solid 5px white;
+    justify-content: space-around;
+}
+
+#filho1p5 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(0, 153, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#filho2p5 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(3, 3, 66);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+#filho3p5 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(255, 0, 64);
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+   
+}
+
+#filho4p5 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(151, 151, 3);
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    
+}
+
+.container6 {
+    width: 100%;
+    background-color: grey;
+    height: fit-content;
+    display: flex;
+    border: solid 5px white;
+    justify-content: space-evenly;
+}
+
+#filho1p6 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(0, 153, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#filho2p6 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(3, 3, 66);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+#filho3p6 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(255, 0, 64);
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+   
+}
+
+#filho4p6 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(151, 151, 3);
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    
+}
+
+.container_exercicioB {
+    width: 100%;
+    height: fit-content;
+    background-color: gray;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+#filho1p7 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(0, 153, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#filho2p7 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(3, 3, 66);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+#filho3p7 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(255, 0, 64);
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+   
+}
+
+#filho4p7 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(151, 151, 3);
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    
+}
+
+.container_desafio {
+    width: 100%;
+    height: fit-content;
+    background-color: gray;
+    display: flex;
+    justify-content: start;
+    flex-direction: row-reverse;
+}
+
+#filho1p8 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(0, 153, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#filho2p8 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(3, 3, 66);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+#filho3p8 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(255, 0, 64);
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+   
+}
+
+#filho4p8 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(151, 151, 3);
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    
+}
