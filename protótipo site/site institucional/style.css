@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+}
+
+.header{
+    margin: 0px 0px 12px 0px;
+    border-bottom: 3px solid blue;
+    background-color: #000;
+}
+
+.header .container{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.header .container ul {
+    width: 400px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header .container h1 {
+    color: aqua;
+}
+
+.header .container ul li a{
+    color: yellow;
+    text-decoration: none;
+}
