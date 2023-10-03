@@ -1,3 +1,7 @@
+*{
+    font-family: Arial;
+}
+
 body {
     margin: 0;
 }
@@ -161,7 +165,6 @@ body {
 
 .botao {
     cursor: pointer;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     border: 0;
     border-radius: 5px;
     font-weight: 504;
